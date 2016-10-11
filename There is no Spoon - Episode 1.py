@@ -1,3 +1,4 @@
+#By izanbf1803
 width, height = (int(input()), int(input()))
 lines = [input() for i in range(height)]
 nodes = [[j,i] for i in range(len(lines)) for j in range(len(lines[i])) if lines[i][j] == "0"]
