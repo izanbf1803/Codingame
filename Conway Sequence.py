@@ -1,3 +1,4 @@
+#By izanbf1803
 r, l = int(input()), int(input())
 seq = str(r)
 
